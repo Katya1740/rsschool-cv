@@ -1,6 +1,6 @@
-#Ekaterina Koverko
----
-**Contacts
+# Ekaterina Koverko
+
+## Contacts:
 ---
 * Location: Minsk, Belarus
 
@@ -8,12 +8,11 @@
 
 * Telegram: Ekaterina_Koverko 
 
-**About Myself
+## About Myself
 ---
-
 Purposeful, stress-resistant, sociable, analytical mindset. Has 10 years of experience in a state enterprise as a chief economist. I'm devote my free time to education and self-development. At the moment I'm interested in Web Development. This is something new for me, allowing me to improve my professional skills.
 
-**Skills and Proficiency:
+## Skills and Proficiency:
 ---
 
 1. HTML5
@@ -26,14 +25,14 @@ Purposeful, stress-resistant, sociable, analytical mindset. Has 10 years of expe
 
 5. JavaScript Basics
 
-**Courses:
+## Courses:
 ---
 
 * International House - Intermediate Level (completed)
 
 * RS School Course "JavaScript/Front-end. Stage1" (in progress)
 
-**Language:
+## Language:
 ---
 
 * Russian
